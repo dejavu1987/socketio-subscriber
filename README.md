@@ -1,4 +1,4 @@
-# socketio-subscriber
+# socket-subscriber
 Simple Class that manages events for your socketio app
 
 ## Usage
